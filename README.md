@@ -13,7 +13,7 @@ Assignment4/
 ├── utils.h           – Utility function declarations
 ├── utils.cpp         – Highlighting, statistics, comparison helpers
 ├── input.txt         – Sample text file for testing
-└── README.md         – This file
+└── README.md         
 ```
 
 ---
@@ -24,7 +24,6 @@ Assignment4/
 g++ -std=c++17 -O2 -o Assignment4 main.cpp algorithms.cpp utils.cpp
 ```
 
-Requires a C++17-capable compiler (GCC 8+, Clang 7+, MSVC 2017+).
 
 ---
 
